@@ -1,0 +1,20 @@
+{
+    "appclips": {
+        "apps": [
+	    "VNPYUB67HU.maxood.BingoMeister.AppClip"
+	],
+        "details": [
+            {
+                "appIDs": [
+                    "VNPYUB67HU.maxood.BingoMeister.AppClip"
+                ],
+                "components": [
+                    
+                    {
+                        "/": "/bingo/"
+                    }
+                ]
+            }
+        ]
+    }
+}
